@@ -1,8 +1,35 @@
-body {
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: rgba(16, 16, 29, 0.9);
+  position: sticky;
+  z-index: 1;
+  top: 0;
+}
 
-  p {
-    font-size: 25px;
-    color: #ff0000;
-    font-weight: 900;
+.main-screen {
+  background-image: url("../img/layer01MainScreen.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 850px;
+  position: absolute;
+  top: 0;
+
+  .main-screen__body {
+
+
   }
 }
+
+.making-an-order {
+  background-color: rgba(39, 39, 51, 1);
+  background-image: url("../img/layer02MakingAnOrder.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 920px;
+  position: absolute;
+  top: 850px;
+}
+

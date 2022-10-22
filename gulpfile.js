@@ -27,7 +27,7 @@ const rename = require('gulp-rename');
 
 //Порядок подключения файлов со стилями
 const styleFiles = [
-   './src/css/color.scss',
+   './src/css/variables.scss',
    './src/css/main.scss'
 ]
 //Порядок подключения js файлов
