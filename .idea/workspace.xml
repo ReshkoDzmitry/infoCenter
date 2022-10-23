@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49ea2a4f-b235-4cc4-a339-45575ed21ce9" name="Changes" comment="new structure">
+    <list default="true" id="49ea2a4f-b235-4cc4-a339-45575ed21ce9" name="Changes" comment="added structure html file">
+      <change afterPath="$PROJECT_DIR$/src/img/addFile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/buttonAttachAFile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/infoIpsum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/layer01MainScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/layer02MakingAnOrder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/procent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/qiwiWallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/webMoney.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/yandexMoney.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/addFile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/buttonAttachAFile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/infoIpsum.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/layer01MakingAnOrder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/layer02MainScreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/message.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/procent.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/qiwiWallet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/webMoney.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/yandexMoney.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1666303235714" duration="1366000" />
       <workItem from="1666385271590" duration="8458000" />
       <workItem from="1666393953641" duration="340000" />
-      <workItem from="1666431559062" duration="16458000" />
+      <workItem from="1666431559062" duration="26370000" />
     </task>
     <task id="LOCAL-00001" summary="create repository">
       <created>1666215288361</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666432904949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added structure html file">
+      <created>1666452103333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666452103333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,7 @@
     <MESSAGE value="create repository" />
     <MESSAGE value="save images" />
     <MESSAGE value="new structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="new structure" />
+    <MESSAGE value="added structure html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added structure html file" />
   </component>
 </project>
