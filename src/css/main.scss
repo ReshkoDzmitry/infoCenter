@@ -360,10 +360,23 @@ body {
           border-radius: 0 3px 3px 0;
           width: 372px;
           z-index: 1;
+          height: 160px;
         }
 
         .dropdown__list--visible {
           display: block;
+          overflow: scroll;
+          overflow-x: hidden;
+
+          &::-webkit-scrollbar {
+            width: 7px;
+            background-color: #223c50;
+          }
+          &::-webkit-scrollbar-thumb {
+            background-color: #07c8c8;
+            border-radius: 5px;
+
+          }
         }
 
         .dropdown__list-item {

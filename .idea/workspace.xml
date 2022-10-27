@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49ea2a4f-b235-4cc4-a339-45575ed21ce9" name="Changes" comment="changing structure html file">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/arrow.svg" afterDir="false" />
+    <list default="true" id="49ea2a4f-b235-4cc4-a339-45575ed21ce9" name="Changes" comment="added style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +84,9 @@
       <workItem from="1666393953641" duration="340000" />
       <workItem from="1666431559062" duration="27070000" />
       <workItem from="1666522831637" duration="38338000" />
-      <workItem from="1666570543239" duration="2032000" />
+      <workItem from="1666570543239" duration="2332000" />
+      <workItem from="1666642431535" duration="44000" />
+      <workItem from="1666902651894" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="create repository">
       <created>1666215288361</created>
@@ -128,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666483468567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added style">
+      <created>1666572875428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666572875428</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +154,7 @@
     <MESSAGE value="new structure" />
     <MESSAGE value="added structure html file" />
     <MESSAGE value="changing structure html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing structure html file" />
+    <MESSAGE value="added style" />
+    <option name="LAST_COMMIT_MESSAGE" value="added style" />
   </component>
 </project>
